@@ -50,9 +50,20 @@ To implement univariate Linear Regression to fit a straight line using least squ
     plt.show()
 
 ## Output:
-![image](https://github.com/user-attachments/assets/0fb1c4ca-1016-4fd6-8fc7-e2f55a9f084e)
+![image](https://github.com/user-attachments/assets/0ddc4161-016a-40cb-af63-238ae38efb62)
 
-![image](https://github.com/user-attachments/assets/09f06f23-eddb-4f89-b667-dfbe2eeb66df)
+![image](https://github.com/user-attachments/assets/e9188394-c331-422b-8d7d-9f111cec61ea)
+
+![image](https://github.com/user-attachments/assets/2095b02a-1949-4c30-9726-f4ca28107e14)
+
+![image](https://github.com/user-attachments/assets/c28453a0-92e1-4de9-8a75-e43fa1cfd3a1)
+
+![image](https://github.com/user-attachments/assets/610e22d9-5e68-41fd-9866-3c0c8db16bf9)
+
+
+
+
+
 
 
 
